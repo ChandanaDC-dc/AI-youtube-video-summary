@@ -1,0 +1,8 @@
+streamlit
+yt-dlp
+openai-whisper
+torch
+transformers
+requests
+textwrap3
+huggingface-hub
